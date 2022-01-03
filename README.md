@@ -20,7 +20,7 @@ This is the annotations and workplan of Jamil Gafur
 <tr style="height: 23px;">
 <td style="height: 23px;">Supervised neural networks for the classification of structures</td>
 <td style="height: 23px;"><a href="https://ieeexplore.ieee.org/abstract/document/572108">Here</a></td>
-<td style="height: 23px;">NA</td>
+<td style="height: 23px;"><a href="https://github.com/jamilgafur/Jamil_Uiowa_Research/blob/main/Papers/Supervised%20neural%20networks%20for%20the%20classification%20of%20structures.pdf">Here</a></td>
 <td style="height: 23px;">NA</td>
 </tr>
 <tr style="height: 23px;">
