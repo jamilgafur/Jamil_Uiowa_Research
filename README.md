@@ -74,5 +74,22 @@ This is the annotations and workplan of Jamil Gafur
 <td style="height: 23px;"><a href="https://github.com/jamilgafur/Jamil_Uiowa_Research/blob/main/Papers/Feedback%20GAN%20for%20DNA%20optimizes%20protein%20functions.pdf">Here</a></td>
 <td style="height: 23px;">NA</td>
 </tr>
+
+<tr style="height: 23px;">
+<td style="height: 23px;">Harnessing protein folding neural networks for peptide-protein docking</td>
+<td style="height: 23px;"><a href="https://www.researchsquare.com/article/rs-781411/latest.pdf">Here</a></td>
+<td style="height: 23px;"><a href="https://github.com/jamilgafur/Jamil_Uiowa_Research/blob/main/Papers/Harnessing%20protein%20folding%20neural%20networks%20for%20peptide-protein%20docking.pdf">Here</a></td>
+<td style="height: 23px;">NA</td>
+</tr>
+
+
+<tr style="height: 23px;">
+<td style="height: 23px;">OpeNNdd – Open Neural Networks for Drug Discovery</td>
+<td style="height: 23px;"><a href="https://sc18.supercomputing.org/proceedings/tech_poster/tech_poster_pages/post222.html">Here</a></td>
+<td style="height: 23px;"><a href="https://github.com/jamilgafur/Jamil_Uiowa_Research/blob/main/Papers/OpeNNdd%20%E2%80%93%20Open%20Neural%20Networks%20for%20Drug%20Discovery.pdf">Here</a></td>
+<td style="height: 23px;">NA</td>
+</tr>
+
+
 </tbody>
 </table>
