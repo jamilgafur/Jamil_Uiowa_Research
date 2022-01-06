@@ -26,19 +26,19 @@ This is the annotations and workplan of Jamil Gafur
 <tr style="height: 23px;">
 <td style="height: 23px;">Deep Model Compression And Architecture optimization for embedded systems A Survey</td>
 <td style="height: 23px;"><a href="https://link.springer.com/article/10.1007/s11265-020-01596-1">Here</a></td>
-<td style="height: 23px;"><a href="----">Here</a></td>
+<td style="height: 23px;"><a href="https://github.com/jamilgafur/Jamil_Uiowa_Research/blob/main/Papers/Deep%20Model%20Compression%20And%20Architecture%20optimization%20for%20embedded%20systems%20A%20Survey.pdf">Here</a></td>
 <td style="height: 23px;">NA</td>
 </tr>
 <tr style="height: 23px;">
 <td style="height: 23px;">Exploring Neural Network Layers for Knowledge Discovery</td>
 <td style="height: 23px;"><a href="https://www.sciencedirect.com/science/article/pii/S1877050921020585">Here</a></td>
-<td style="height: 23px;"><a href="----">Here</a></td>
+<td style="height: 23px;"><a href="https://github.com/jamilgafur/Jamil_Uiowa_Research/blob/main/Papers/Exploring%20Neural%20Network%20Layers%20for%20Knowledge%20Discovery.pdf">Here</a></td>
 <td style="height: 23px;">NA</td>
 </tr>
 <tr style="height: 23px;">
 <td style="height: 23px;">Graph Neural Networks: A Review of Methods and Applications</td>
 <td style="height: 23px;"><a href="https://doi.org/10.1016/j.aiopen.2021.01.001">Here</a></td>
-<td style="height: 23px;">NA</td>
+<td style="height: 23px;"><a href="https://github.com/jamilgafur/Jamil_Uiowa_Research/blob/main/Papers/Graph%20neural%20networks%20A%20review%20of%20methods%20and%20applications.pdf">Here</td>
 <td style="height: 23px;">NA</td>
 </tr>
 </tbody>
@@ -77,6 +77,29 @@ This is the annotations and workplan of Jamil Gafur
 <td style="height: 23px;">NA</td>
 </tr>
 
+<tr style="height: 23px;">
+<td style="height: 23px;">Graph convolutional networks for computational drug development and discovery</td>
+<td style="height: 23px;"><a href="https://academic.oup.com/bib/article/21/3/919/5498046">Here</a></td>
+<td style="height: 23px;"><a href="">Here</a></td>
+<td style="height: 23px;">NA</td>
+</tr>
+
+
+<tr style="height: 23px;">
+<td style="height: 23px;">Genomics Genetics, Transcriptomics and Epigenetics</td>
+<td style="height: 23px;"><a href="https://www.ema.europa.eu/en/documents/report/genomics-genetics-transcriptomics-epigenetics-subgroup-report_en.pdf">Here</a></td>
+<td style="height: 23px;"><a href="">Here</a></td>
+<td style="height: 23px;">NA</td>
+</tr>
+
+
+<tr style="height: 23px;">
+<td style="height: 23px;">Protein-DNA binding in high-resolution
+</td>
+<td style="height: 23px;"><a href="https://pubmed.ncbi.nlm.nih.gov/26038153/">Here</a></td>
+<td style="height: 23px;"><a href="">Here</a></td>
+<td style="height: 23px;">NA</td>
+</tr>
 
 </tbody>
 </table>
