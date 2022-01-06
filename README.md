@@ -24,6 +24,18 @@ This is the annotations and workplan of Jamil Gafur
 <td style="height: 23px;">NA</td>
 </tr>
 <tr style="height: 23px;">
+<td style="height: 23px;">Deep Model Compression And Architecture optimization for embedded systems A Survey</td>
+<td style="height: 23px;"><a href="https://link.springer.com/article/10.1007/s11265-020-01596-1">Here</a></td>
+<td style="height: 23px;"><a href="----">Here</a></td>
+<td style="height: 23px;">NA</td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;">Exploring Neural Network Layers for Knowledge Discovery</td>
+<td style="height: 23px;"><a href="https://www.sciencedirect.com/science/article/pii/S1877050921020585">Here</a></td>
+<td style="height: 23px;"><a href="----">Here</a></td>
+<td style="height: 23px;">NA</td>
+</tr>
+<tr style="height: 23px;">
 <td style="height: 23px;">Graph Neural Networks: A Review of Methods and Applications</td>
 <td style="height: 23px;"><a href="https://doi.org/10.1016/j.aiopen.2021.01.001">Here</a></td>
 <td style="height: 23px;">NA</td>
@@ -55,31 +67,6 @@ This is the annotations and workplan of Jamil Gafur
 <tbody>
 <tr style="height: 23px;">
 <td style="height: 23px;" colspan="4"><center>4. Applications</center></td>
-</tr>
-<tr style="height: 23px;">
-<td style="height: 23px;">Feature extraction for the clustering of small 3D structures application to RNA fragments</td>
-<td style="height: 23px;"><a href="https://hal-lara.archives-ouvertes.fr/LORIA-AIS/hal-03370994v1">Here</a></td>
-<td style="height: 23px;"><a href="https://github.com/jamilgafur/Jamil_Uiowa_Research/blob/main/Papers/Feature%20extraction%20for%20the%20clustering%20of%20small%203D%20structures%20application%20to%20RNA%20fragments.pdf">Here</a></td>
-<td style="height: 23px;">NA</td>
-</tr>
-<tr style="height: 23px;">
-<td style="height: 23px;">Feedback GAN for DNA optimizes protein functions</td>
-<td style="height: 23px;"><a href="https://www.nature.com/articles/s42256-019-0017-4">Here</a></td>
-<td style="height: 23px;"><a href="https://github.com/jamilgafur/Jamil_Uiowa_Research/blob/main/Papers/Feedback%20GAN%20for%20DNA%20optimizes%20protein%20functions.pdf">Here</a></td>
-<td style="height: 23px;">NA</td>
-</tr>
-<tr style="height: 23px;">
-<td style="height: 23px;">Feature extraction for the clustering of small 3D structures application to RNA fragments</td>
-<td style="height: 23px;"><a href="https://www.nature.com/articles/s42256-019-0017-4">Here</a></td>
-<td style="height: 23px;"><a href="https://github.com/jamilgafur/Jamil_Uiowa_Research/blob/main/Papers/Feedback%20GAN%20for%20DNA%20optimizes%20protein%20functions.pdf">Here</a></td>
-<td style="height: 23px;">NA</td>
-</tr>
-
-<tr style="height: 23px;">
-<td style="height: 23px;">Harnessing protein folding neural networks for peptide-protein docking</td>
-<td style="height: 23px;"><a href="https://www.researchsquare.com/article/rs-781411/latest.pdf">Here</a></td>
-<td style="height: 23px;"><a href="https://github.com/jamilgafur/Jamil_Uiowa_Research/blob/main/Papers/Harnessing%20protein%20folding%20neural%20networks%20for%20peptide-protein%20docking.pdf">Here</a></td>
-<td style="height: 23px;">NA</td>
 </tr>
 
 
